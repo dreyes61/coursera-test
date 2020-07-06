@@ -29,7 +29,7 @@
         $scope.response="Enjoy!";
       }
     }
-      else{
+      else {
         $scope.color = "color:red";
         $scope.borderColor = "border-color:red";
         $scope.response = "Please enter data first";
