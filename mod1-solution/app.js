@@ -25,6 +25,7 @@
       }
       if(count>3){
         $scope.response="Too much!";
+        $scope.color = "color:red";
       }else{
         $scope.response="Enjoy!";
       }
